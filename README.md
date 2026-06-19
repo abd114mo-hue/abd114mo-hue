@@ -1,6 +1,6 @@
 # Abdulrahman Mohammed – Aspiring Cybersecurity Analyst
 
-👋 Hello! I’m **Abdulrahman Mohammed**, a results-driven Cybersecurity Analyst with two years of experience protecting cloud and on-prem infrastructures. My work focuses on threat detection, vulnerability management, and continuous security monitoring. This repository gathers the lab projects and reference guides that demonstrate my technical depth and commitment to secure-by-design principles.
+👋 Hello! I'm **Abdulrahman Mohammed**, an undergraduate student focused on cybersecurity, networking, and IT systems. Through coursework, hands-on labs, and cybersecurity mentorship, I am building skills in network security, vulnerability management, threat detection, and security monitoring. This repository contains projects that demonstrate my learning journey and technical growth in cybersecurity, cloud security, networking, and system administration.
 
 ---
 
