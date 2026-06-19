@@ -58,7 +58,7 @@
 |--------|-------------|------|
 | 01-home-lab | Building a multi-VM cybersecurity lab | [View Repo](https://github.com/abd114mo-hue/A-CYBERSEC-HOME-LAB) |
 | 02-ad-deployment | Installing and hardening Active Directory | [View Repo](https://github.com/abd114mo-hue/Active-Directory) |
-| 03-AWS-deployment | Configuration and hardening Cloud console in AWS | [View Repo](#) |
+| 03-AWS-cloud-security | Deploying and securing AWS cloud resources using EC2, IAM, CloudWatch, and S3 | [View Repo](#) |
 | 04-security-policy-dev | Crafting AUP, password, and ACL policies | [View Repo](#) |
 | 05-vulnerability-assessment | Network and web-app scanning with Nessus and Nmap | [View Repo](#) |
 | 06-network-monitoring | Security Onion and Splunk dashboards | [View Repo](#) |
